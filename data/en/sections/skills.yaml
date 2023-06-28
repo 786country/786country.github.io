@@ -51,3 +51,11 @@ skills:
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+- name: Azure
+  logo: /images/sections/skills/c++.png
+  summary: "Four certifications in Azure"
+
+- name: AWS
+  logo: /images/sections/skills/c++.png
+  summary: "One certification in AWS"

@@ -14,8 +14,8 @@ skills:
 - name: Python
   logo: /images/sections/skills/kubernetes.png
   summary: "Advanced knowledge of Python, from Data Engineering and Science, Front End development and Backend design and implementation"
-  
   url: "https://www.python.org/"
+  
 - name: Pyspark
   logo: /images/sections/skills/kubernetes.png
   summary: "Hands-on experience in leveraging big data tools and frameworks such as  Spark to handle large data sets."

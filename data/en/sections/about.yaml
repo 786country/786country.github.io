@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate data scientist/engineer with 5 years of working experience. I build predictive data models and data pipelines. But most importantly I solve my clients problems'
+summary: 'I am a passionate data scientist/engineer with 7 years of working experience. I build predictive data models and data pipelines. But most importantly I solve my clients problems'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -54,30 +54,14 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: AWS Certified Cloud Practitioner
+  url: "https://www.credly.com/badges/4a58d3e7-4d16-466f-92a8-cf2d792002b3"
+  badge: "https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-badges:
-- type: certification
-  name: Azure Data Fundamentals
-  url: "https://www.credly.com/badges/4c1be963-3179-47ff-9dff-e1f8ab0b6419/public_url"
-  badge: "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
-
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Dataiku Advanced Designer Certificate
+  url: "https://verify.skilljar.com/c/fqto8gakqosf"
+  badge: "https://cc.sj-cdn.net/instructor/1okd5xripib5k-dataiku/courses/30rxi78aha4p4/promo-image.1647957848.png"
 
   # AWS cloud practioner 
   # Azure Fundamentals

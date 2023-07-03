@@ -8,64 +8,65 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true 
 
-# Career Progression
+# Your experiences
+# Your experiences
 experiences:
-- organization:
+- company:
     name: Entelect
-    website: "https://entelect.co.za/"
-    location: Virtual
-    description: Entelect is a globally acknowledged entity, renowned for their data science and engineering solutions.
-  roles:
-  - title: Senior Data Scientist/Engineer
-    commencement: January 2023
-    duties:
-    - Conducting advanced Machine Learning research 
-    - Contributing to data engineering and solution architecture design
-    - Mentoring and training junior team members
-    - Communicating intricate business data and model interpretations
-    - Leading Proof-of-Concept development and presentation
+    url: "https://entelect.co.za/"
+    location: Remote
+    overview: Entelect is a widely recognized company for data science and engineering solutions.
+  positions:
+  - designation: Senior Data Scientist/Engineer
+    start: Jan 2023
+    responsibilities:
+    - Performing research on Machine Learning approaches
+    - Assisting with data engineering and solution architecture
+    - Training new team members
+    - Communicating with business data and model findings
+    - POC development and delivery
 
-  - title: Data Scientist/Engineer
-    commencement: October 2020
-    cessation: January 2023
-    duties:
-    - Gathering requirements, engineering data, and designing data models
-    - Supervising and developing both supervised and unsupervised Machine Learning models, and conducting tests
-    - Formulating time series forecasting models
-    - Communicating significant findings to stakeholders
+  - designation: Data Scientist/Engineer
+    start: Oct 2020
+    end: Jan 2023
+    responsibilities:
+    - Requirements gathering, data engineering and data modelling
+    - Supervised and Unsupervised ML model development and testing
+    - Developing time series forecasting models
+    - Communicating to stakeholders findings 
 
-- organization:
+- company:
     name: Revotech Computers
-    website: "https://www.facebook.com/revotech786/"
+    url: "https://www.facebook.com/revotech786/"
     location: Pretoria Area, South Africa
-    description: Revotech Computers is a distinguished provider of electronics, including laptops and tablets, and offers repair services and Point of Sale (POS) system implementation for SMEs.
-  roles:
-  - title: Director
-    commencement: January 2011
-    duties:
-    - Overseeing the procurement and supply of laptops, tablets, and other electronic devices
-    - Managing the repair services for laptops and personal computers
-    - Leading the implementation of POS systems for small to medium-sized businesses
+    overview: Revotech Computers is a supplier of laptops, tablets, and anything electronic. It also provides laptop and pc repairs and POS systems for small to medium businesses.
+  positions:
+  - designation: Director
+    start: Jan 2011
+    responsibilities:
+    - Managing the supply of laptops, tablets, and other electronic devices
+    - Overseeing laptop and pc repairs
+    - Implementing POS systems for small to medium businesses
 
-- organization:
+- company:
     name: Deloitte South Africa
-    website: "https://www2.deloitte.com/za/en/pages/risk/solutions/data-analytics.html"
+    url: "https://www2.deloitte.com/za/en/pages/risk/solutions/data-analytics.html"
     location: Johannesburg Area, South Africa
-    description: Deloitte South Africa is a globally prominent professional services network, providing expertise in audit, consulting, financial advisory, risk advisory, tax, and legal services.
-  roles:
-  - title: Consultant, Advanced Analytics and Cognitive Services
-    commencement: October 2018
-    cessation: October 2020
-    duties:
-    - Developing and deploying the DNAi production solution
-    - Facilitating the migration of backend systems across various front-end interfaces
-    - Assisting with the design of front-end wireframes
-    - Building the Adverse Media data scraping and semantic analysis components up to the production stage
+    overview: Deloitte South Africa is a multinational professional services network, offering services in audit, consulting, financial advisory, risk advisory, tax, and legal.
+  positions:
+  - designation: Consultant Advanced Analytics and Cognitive services
+    start: Oct 2018
+    end: Oct 2020
+    responsibilities:
+    - Developing the DNAi production solution
+    - Migrating backend systems between the different front-ends
+    - Assisting with front-end wireframing
+    - Developing the Adverse Media data scraping and semantic analysis components to production state
 
-  - title: Junior Consultant, Data
-    commencement: December 2016
-    cessation: October 2018
-    duties:
-    - Implementing and maintaining cloud storage solutions
-    - Assisting in the development of sophisticated matching algorithms
-    - Supporting management in assessing intricate Know Your Customer (KYC) scenarios
+  - designation: Junior Consultant Data
+    start: Dec 2016
+    end: Oct 2018
+    responsibilities:
+    - Implementing cloud storage and maintenance
+    - Assisting with the development of matching algorithms
+    - Assisting management with an assessment with complex KYC scenarios

@@ -1,12 +1,12 @@
-# Section Metadata
+# section information
 section:
-  name: Professional Experience
-  id: professional_experience
-  active: true
-  priority: 3
-  includeInNavbar: true
-  # Option to hide the section title, if required
-  # concealTitle: true 
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
 
 # Career Progression
 experiences:

@@ -27,7 +27,7 @@ projects:
   role: Senior Data Engineer
   timeline: "August 2022 – September 2022"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Redesign data architecture for team and improve data accessibility.
+  summary: Initiated and executed a redesign of the teams data architecture to enhance data accessibility and overall system efficiency.
   tags: ["mssql","azure","databricks","data factory"]
 
 
@@ -35,7 +35,7 @@ projects:
   role: Lead Developer
   timeline: "January 2022 – June 2022"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Develop tailored content for Anglo American's inaugural global pilot course on Udacity.
+  summary: Led the development of custom content for Anglo Americans pioneering global pilot course on Udacity, setting the standard for future learning initiatives.
   tags: ["powerbi","python","data generation","digital course curation","data engineering"]
 
 
@@ -44,16 +44,16 @@ projects:
   role: Lead Data Scientist
   timeline: "January 2022 – June 2022"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Improve and streamline web application by eliminating bugs, enhancing user experience, and rectifying functional issues.
+  summary: Directed the refinement of a web application through bug resolution, user experience enhancement, and functional issue mitigation, leading to improved performance and user satisfaction.
   tags: ["dataiku","dash","html","css","js"]
 
 
 
-- name: Moranbah Coal Processing Plant Optimisation
+- name: Coal Processing Plant Optimisation
   role: Lead Data Scientist
   timeline: "March 2022 – July 2022"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Estimation of the delays caused from two major causes Strata and Ventilation/ Gas for one month prediction horizon, Investigate and report of feasibility of forecasting the events.
+  summary: Undertook a detailed study of delays due to Strata and Ventilation/Gas and developed a forecasting model with a one-month prediction horizon. Presented a comprehensive feasibility report of the forecasting measures.
   tags: ["dataiku","iot","time series analysis","data engineering","mssql","water"]
 
 
@@ -61,7 +61,7 @@ projects:
   role: Lead Data Scientist
   timeline: "January 2022 – June 2022"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Estimation of the delays caused from two major causes Strata and Ventilation/ Gas for one month prediction horizon, Investigate and report of feasibility of forecasting the events.
+  summary: Led the estimation of delays caused by two major factors - Strata and Ventilation/Gas, and developed a forecast model with a one-month prediction horizon. Conducted a comprehensive investigation and reported on the feasibility of the forecasting measures.
   tags: ["dataiku","iot","time series analysis","data engineering","mssql"]
 
 
@@ -69,48 +69,48 @@ projects:
   role: Data Scientist
   timeline: "June 2021 – December 2021"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Estimation of energy and Green House Gas impacts using machine learning
+  summary: Deployed machine learning to estimate energy consumption and Green House Gas impacts, promoting more sustainable operations.
   tags: ["dataiku","iot","supervised learning","data engineering","databricks","azure","mssql"]
 
 - name: Methane Analytics
   role: Data Scientist
   timeline: "October 2020 – June 2021"
   url: "https://www.angloamerican.com/sustainability"
-  summary: Historical statistical study of Methane and its causes within a mine. 
+  summary: Conducted a historical statistical study of Methane and its causes within a mine, facilitating more informed decision-making and operational safety measures.
   tags: ["dataiku","iot","statistics","data engineering","databricks","azure","time series analysis"]
 
 - name: DNAi (Automated Machine Learning)
   role: Developer
   timeline: "July 2019 – October 2020"
   url: "https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/aiStudio-DNAi-Fact-Sheet.pdf"
-  summary: Development and maintain DNAi solution to a production state and include a new Angular frontend.
+  summary: : Contributed to the development and maintenance of the DNAi solution (Automated ML solution) to a production state and implemented a new Angular frontend for improved usability and efficiency.
   tags: ["python","angular","mongoDB","kafka","databricks","git","PostgreSQL"]
 
 - name: Risk Intelligence Tool
   role: Developer
   timeline: "October 2017 – June 2019"
   url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
-  summary: Development for the creation of a risk intelligence tool, specifically the adverse media component of the tool.
+  summary:  Participated in the development of a risk intelligence tool, focusing on the adverse media component to augment the tools analytical capabilities.
   tags: ["python","MSSQL","Flask","kafka","Natural Language Processing","git","pipelines"]
 
 - name: Cloud storage KYC remediation Big Four Bank
   role: Developer
   timeline: "October 2017 – June 2019"
   url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
-  summary: I was part of the Deloitte development team responsible for the creation of a Cloud storage KYC remediation project.
+  summary: Actively participated in Deloittes development team for the creation of a cloud storage solution for KYC remediation, augmenting data management capabilities for the client.
   tags: ["Microsoft SharePoint","Python","QlikView"]
 
 - name: IDT - Matching
   role: Developer
   timeline: "July 2017 – July 2017"
   url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
-  summary: objective of this engagement was to match invoices and payments per customer based on the amounts and dates within all accounts (no source documents). 
+  summary: The goal of the engagement was to match invoices and payments per customer based on the amounts and dates within all accounts (without source documents), enabling more effective financial analysis.
   tags: ["Tableau","R"]
 
 - name: KYC Big Four Bank
   role: Analyst
   timeline: "Feb 2017 – July 2017"
   url: "https://www2.deloitte.com/za/en/pages/risk/articles/financial-crime.html"
-  summary: Ascertain the correct entities in the corporate division in one of the big four banks. The project was based on an algorithm to ascertain the correct entity that would be referenced as the main client.
+  summary: Assisted in determining the correct entities in the corporate division of one of the big four banks, facilitating improved KYC processes through the use of an innovative algorithm.
   tags: ["SAP","SAS"]
 

@@ -12,17 +12,17 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/python.png
   summary: "Advanced knowledge of Python, from Data Engineering and Science, Front End development and Backend design and implementation"
   url: "https://www.python.org/"
   
 - name: Pyspark
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/pyspark.png
   summary: "Hands-on experience in leveraging big data tools and frameworks such as  Spark to handle large data sets."
   url: "https://pypi.org/project/pyspark/"
 
 - name: Dataiku
-  logo: /images/sections/skills/go.png
+  logo: /images/sections/skills/kisspng-dataiku.png
   summary: "4x Certified in Dataiku, with three years experience using the platform"
   url: "https://www.dataiku.com/"
 
@@ -36,7 +36,7 @@ skills:
   url: "https://www.docker.com/"
 
 - name: SQL
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/SQL.png
   summary: "Extensive Experience with MSSQL, PostgreSQL and MySQL"
   url: "https://prometheus.io/"
 
@@ -50,7 +50,7 @@ skills:
   url: "https://git-scm.com/"
   
 - name: Kafka
-  logo: /images/sections/skills/git.png
+  logo: /images/sections/skills/kafka.png
   summary: "Experienced in using Kafka for streaming data and for broker between systems"
   url: "https://git-scm.com/"
 

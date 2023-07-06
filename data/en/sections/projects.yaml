@@ -83,7 +83,7 @@ projects:
   role: Developer
   timeline: "July 2019 – October 2020"
   url: "https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/aiStudio-DNAi-Fact-Sheet.pdf"
-  summary: : Contributed to the development and maintenance of the DNAi solution (Automated ML solution) to a production state and implemented a new Angular frontend for improved usability and efficiency.
+  summary: Contributed to the development and maintenance of the DNAi solution (Automated ML solution) to a production state and implemented a new Angular frontend for improved usability and efficiency.
   tags: ["python","angular","mongoDB","kafka","databricks","git","PostgreSQL"]
 
 - name: Risk Intelligence Tool

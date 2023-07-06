@@ -20,20 +20,20 @@ experiences:
   - designation: Senior Data Scientist/Engineer
     start: Jan 2023
     responsibilities:
-    - Performing research on Machine Learning approaches
-    - Assisting with data engineering and solution architecture
-    - Training new team members
-    - Communicating with business data and model findings
-    - POC development and delivery
+      - Propelling the research forward on advanced Machine Learning methodologies.
+      - Offering crucial support in data engineering and solution architecture, working towards robust and scalable outcomes.
+      - Orchestrating comprehensive training initiatives for newer team members, fostering a culture of continuous learning.
+      - Serving as an effective conduit for communicating complex data and model insights to the business stakeholders.
+      - Driving the development and successful delivery of Proof of Concepts, bolstering the companys innovative edge.
 
   - designation: Data Scientist/Engineer
     start: Oct 2020
     end: Jan 2023
     responsibilities:
-    - Requirements gathering, data engineering and data modelling
-    - Supervised and Unsupervised ML model development and testing
-    - Developing time series forecasting models
-    - Communicating to stakeholders findings 
+    - Actively engaged in requirements elicitation, alongside astute data engineering and modeling efforts.
+    - Helming the development and testing of both Supervised and Unsupervised Machine Learning models, harnessing data to drive actionable insights.
+    - Demonstrated proficiency in developing time-series forecasting models, predicting future data trends with significant accuracy.
+    - Effectively communicating insights and findings to stakeholders, transforming complex data into digestible and actionable information.
 
 - company:
     name: Revotech Computers
@@ -44,9 +44,8 @@ experiences:
   - designation: Director
     start: Jan 2011
     responsibilities:
-    - Managing the supply of laptops, tablets, and other electronic devices
-    - Overseeing laptop and pc repairs
-    - Implementing POS systems for small to medium businesses
+    - Spearheading the procurement and supply of laptops, tablets, and a wide array of electronic devices, ensuring customer satisfaction through the provision of top-tier products.
+    - Actively engaged in requirements elicitation, alongside astute data engineering and modeling efforts.
 
 - company:
     name: Deloitte South Africa
@@ -58,15 +57,15 @@ experiences:
     start: Oct 2018
     end: Oct 2020
     responsibilities:
-    - Developing the DNAi production solution
-    - Migrating backend systems between the different front-ends
-    - Assisting with front-end wireframing
-    - Developing the Adverse Media data scraping and semantic analysis components to production state
+    - Contributing significantly to the development of the DNAi production solution (An Automated ML platform), ensuring effective implementation and smooth operation.
+    - Effectively coordinating the migration of backend systems across different front-end platforms, optimizing system performance and interoperability.
+    - Assisting in front-end wireframing, enhancing the user experience and improving interface usability.
+    - Developing the Adverse Media data scraping and semantic analysis components to production state, enriching data collection and analysis capabilities for financial crime. 
 
   - designation: Junior Consultant Data
     start: Dec 2016
     end: Oct 2018
     responsibilities:
-    - Implementing cloud storage and maintenance
-    - Assisting with the development of matching algorithms
-    - Assisting management with an assessment with complex KYC scenarios
+    - Facilitating the implementation and maintenance of cloud storage solutions, safeguarding data integrity and accessibility.
+    - Assisting with the development of innovative matching algorithms, enhancing the precision and efficiency of data processing.
+    - Collaborating with management in the evaluation of complex Know Your Customer (KYC) scenarios, ensuring regulatory compliance and enhancing customer verification processes.

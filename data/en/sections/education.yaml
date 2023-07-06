@@ -15,19 +15,19 @@ degrees:
   timeframe: 2013-2016
   institution:
     name: University of Pretoria/Universiteit van Pretoria
-    url: "#" # replace with actual URL if available
-  grade:
-    scale: Percentage
-    achieved: 83
-    outOf: 100
+    url: "https://www.up.ac.za/chemical-engineering" # replace with actual URL if available
+  # grade:
+  #   scale: Percentage
+  #   achieved: 83
+  #   outOf: 100
 
 - name: National Senior Certificate & O level Cambridge
   icon: fa-university
   timeframe: 2007-2011
   institution:
-    name: Central Islamic School
-    url: "#" # replace with actual URL if available
-  grade:
-    scale: Percentage
-    achieved: 83
-    outOf: 100
+    name: CIS
+    url: "https://centralislamicschool.co.za/gallery/" # replace with actual URL if available
+  # grade:
+  #   scale: Percentage
+  #   achieved: 83
+  #   outOf: 100

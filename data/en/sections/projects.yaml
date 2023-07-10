@@ -23,9 +23,16 @@ buttons:
 
 projects:
 
+# - name: Business Development LLM market strategy
+#   role: Senior Data Engineer
+#   timeline: "January 2023 – June 2023"
+#   url: "https://www.angloamerican.com/sustainability"
+#   summary: Initiated and executed a redesign of the teams data architecture to enhance data accessibility and overall system efficiency.
+#   tags: ["mssql","azure","databricks","data factory"]
+
 - name: Digital Control Monitoring
   role: Senior Data Engineer
-  timeline: "August 2022 – September 2022"
+  timeline: "January 2023 – June 2023"
   url: "https://www.angloamerican.com/sustainability"
   summary: Initiated and executed a redesign of the teams data architecture to enhance data accessibility and overall system efficiency.
   tags: ["mssql","azure","databricks","data factory"]

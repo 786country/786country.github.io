@@ -15,7 +15,7 @@ company:
   url: "https://entelect.co.za/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/Naeem Ahmed CV.pdf"
 
 # a summary about you
 summary: 'I am a passionate data scientist/engineer with 7 years of working experience. I build predictive data models and data pipelines. But most importantly I solve my clients problems'

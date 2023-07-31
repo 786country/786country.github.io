@@ -30,10 +30,10 @@ projects:
 #   summary: Initiated and executed a redesign of the teams data architecture to enhance data accessibility and overall system efficiency.
 #   tags: ["mssql","azure","databricks","data factory"]
 
-- name: Digital Control Monitoring
-  role: Senior Data Engineer
-  timeline: "January 2023 – June 2023"
-  url: "https://www.angloamerican.com/sustainability"
+- name: OpenAi Azure POC Development
+  role: Senior Data Scientist
+  timeline: "July 2023 – Present"
+  url: "https://azure.microsoft.com/en-us/products/ai-services/openai-service"
   summary: Create Proof Of Concepts based on Azure Open AI architectures
   tags: ["openai","azure","streemlit","cognitive search","redis"]
 

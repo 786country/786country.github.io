@@ -30,6 +30,10 @@ projects:
 #   summary: Initiated and executed a redesign of the teams data architecture to enhance data accessibility and overall system efficiency.
 #   tags: ["mssql","azure","databricks","data factory"]
 
+
+
+
+projects:
 - name: OpenAi Azure POC Development
   role: Senior Data Scientist
   timeline: "July 2023 – Present"
@@ -51,9 +55,7 @@ projects:
   url: "https://www.angloamerican.com/sustainability"
   summary: Led the development of custom content for Anglo Americans pioneering global pilot course on Udacity, setting the standard for future learning initiatives.
   tags: ["powerbi","python","data generation","digital course curation","data engineering"]
-
-
-projects:
+  
 - name: Crop Nutrients Front End Development
   role: Lead Data Scientist
   timeline: "January 2022 – June 2022"

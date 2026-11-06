@@ -1,8 +1,42 @@
-# hugo-toha.github.io
+# Naeem Ahmed · Resume & Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b1b93b02-f278-440b-ae1b-304e9f4c4ab5/deploy-status)](https://app.netlify.com/sites/toha/deploys) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fhugo-toha%2Fhugo-toha.github.io%2Fbadge%3Fref%3Dsource&style=flat)](https://actions-badge.atrox.dev/hugo-toha/hugo-toha.github.io/goto?ref=source) ![Repository Size](https://img.shields.io/github/repo-size/hugo-toha/hugo-toha.github.io) ![Contributor](https://img.shields.io/github/contributors/hugo-toha/hugo-toha.github.io) ![Last Commit](https://img.shields.io/github/last-commit/hugo-toha/hugo-toha.github.io) ![License](https://img.shields.io/github/license/hugo-toha/hugo-toha.github.io) ![Open Issues](https://img.shields.io/github/issues/hugo-toha/hugo-toha.github.io?color=important) ![Open Pull Requests](https://img.shields.io/github/issues-pr/hugo-toha/hugo-toha.github.io?color=yellowgreen) ![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fhugo-toha.github.io%2F) [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/b7cb60ab/hugo-toha.github.io)
+A brick-inspired Astro site about my work in data engineering, technical leadership, and applied AI, grounded in my chemical engineering background.
 
-An example hugo static site with Toha theme.
+**Live site:** https://786country.github.io/
 
-Attributions:
-- <a href='https://www.freepik.com/vectors/business'>Business vector created by studiogstock - www.freepik.com</a>
+## Local development
+
+Requires Node.js 22.12 or later.
+
+```sh
+npm ci
+npm run dev
+```
+
+Use the local URL printed by Astro. To build and preview the production site:
+
+```sh
+npm run build
+npm run preview
+```
+
+## Editing the site
+
+- `src/data/resume.ts` — profile, results, projects, experience, skills, and certifications.
+- `src/pages/index.astro` — page structure and content.
+- `src/styles/global.css` — responsive layout, brick illustrations, and print styles.
+- `public/` — favicon and downloadable earlier CV.
+
+Yoco experience and figures are current through 5 November 2026. The downloadable PDF predates Yoco; use the page's print action for the current resume. Entelect's exact end date and Revotech's current status still need confirmation. The certification list includes 10 publicly visible LinkedIn entries plus an existing Dataiku Advanced Designer credential; the historical AWS credential is marked expired.
+
+## Deployment
+
+GitHub Actions builds pull requests. Pushes to `main` build `dist/` and publish it to GitHub Pages. No Hugo installation, theme submodules, or Netlify configuration is needed.
+
+## Original site
+
+The complete earlier Hugo site is preserved on [`archive/hugo-site-2026-11-06`](https://github.com/786country/786country.github.io/tree/archive/hugo-site-2026-11-06). It is not used by the Astro build.
+
+## License
+
+MIT; retained upstream license notices are in `LICENSE`.

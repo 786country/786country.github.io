@@ -1,1 +1,6 @@
-resources/*
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example

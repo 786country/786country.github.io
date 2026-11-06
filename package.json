@@ -1,0 +1,29 @@
+{
+  "name": "naeem-brick-resume",
+  "version": "1.0.0",
+  "description": "Naeem Ahmed \u2014 a brick-inspired Astro resume and portfolio",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0",
+    "build": "astro build",
+    "preview": "astro preview --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/786country/786country.github.io.git"
+  },
+  "keywords": [],
+  "author": "Naeem Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/786country/786country.github.io/issues"
+  },
+  "homepage": "https://github.com/786country/786country.github.io#readme",
+  "dependencies": {
+    "astro": "^7.4.1"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

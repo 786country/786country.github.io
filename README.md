@@ -27,7 +27,7 @@ npm run preview
 - `src/styles/global.css` — responsive layout, brick illustrations, and print styles.
 - `public/` — favicon and downloadable earlier CV.
 
-Yoco experience and figures are current through 5 November 2026. The downloadable PDF predates Yoco; use the page's print action for the current resume. Entelect's exact end date and Revotech's current status still need confirmation. The certification list includes 10 publicly visible LinkedIn entries plus an existing Dataiku Advanced Designer credential; the historical AWS credential is marked expired.
+Yoco experience and figures are current through 5 November 2026. The downloadable PDF predates Yoco; use the page's print action for the current resume. Yoco's official titles are Senior Data Engineer (Apr 2024–Mar 2026) and Staff Data Engineer (Mar 2026–present), confirmed from the supplied LinkedIn screenshot. Tech Lead is a responsibility held from July 2025. Revotech is listed as current. Entelect's exact end date still needs confirmation. The certification list includes 10 publicly visible LinkedIn entries plus an existing Dataiku Advanced Designer credential; the historical AWS credential is marked expired.
 
 ## Deployment
 
